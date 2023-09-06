@@ -1,5 +1,5 @@
-import sayGoodbye from './index';
+import { sayByeBye } from './index';
 
 console.log("Teste");
 
-sayGoodbye()
+sayByeBye()
