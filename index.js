@@ -4,6 +4,6 @@ function sayHelloWorld() {
   console.log(message);
 }
 
-export function sayGoodbye() {
+export function sayByeBye() {
   console.log('Goodbye');
 }
