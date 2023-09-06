@@ -1,5 +1,5 @@
-import { sayByeBye } from './index';
+import { dizerTchau } from './index';
 
 console.log("Teste");
 
-sayByeBye()
+dizerTchau()
