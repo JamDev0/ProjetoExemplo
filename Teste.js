@@ -1,4 +1,4 @@
-import { dizerTchau } from './index';
+import { dizerTchau } from '';
 
 console.log("Teste");
 
