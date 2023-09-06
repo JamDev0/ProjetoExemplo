@@ -1,4 +1,4 @@
-import { dizerTchau } from 'Erro';
+import { dizerTchau } from '';
 
 console.log("Teste");
 
